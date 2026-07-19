@@ -1,4 +1,4 @@
-# 🏦 Consumer Complaint Management System 
+# 🏦 AI_Driven Consumer Complaint Management System 
 
 Automatically sort consumer complaints into the right category — comparing recurrent neural networks against a fine-tuned Transformer to find the most reliable classifier.
 
@@ -44,7 +44,7 @@ python app.py
 
 Pass any complaint text in, and the model returns the predicted category along with a confidence score.
 
-## The Verdict
+## Outcome
 
 The fine-tuned Transformer beat every recurrent model by a clear margin in accuracy and F1-score. Its ability to understand context across the full complaint text — not just nearby words — made it the obvious choice for deployment.
 
